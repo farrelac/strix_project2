@@ -1,0 +1,65 @@
+.body {
+  overflow: hidden;
+}
+
+.head1 {
+  font-family: cursive;
+  margin-top: 1px;
+}
+
+.image {
+  object-fit: cover;
+  object-position: bottom;
+}
+
+.about {
+  font-family: cursive;
+  color: brown;
+  background-color: bisque;
+  width: 72%;
+}
+
+.course {
+  color: brown;
+  font-family: cursive;
+  background-color: bisque;
+  width: 72%;
+}
+
+.row {
+  background-color: bisque;
+}
+
+.head2 {
+  color: brown;
+  font-family: cursive;
+  background-color: bisque;
+}
+
+.font_hcl {
+  font-weight: bold;
+}
+
+.form {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table,
+th,
+tr,
+td {
+  border-collapse: collapse;
+  border: 1px solid;
+}
+
+span {
+  color: red;
+}
+
+aside {
+  float: right;
+}
